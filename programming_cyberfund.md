@@ -46,7 +46,7 @@ We follow basic principles of [decentralised autonomous organisations](https://e
 7. Cyber•Fund have visited [notary](http://www.proofofexistence.com/), received [proof of existence](https://blockchain.info/tx/cf6bc6827091a10a6759d500db9b00dd8ea689444eca1f009cfd39c4cd060efc) and [published paper](https://bitcointalk.org/index.php?topic=789798.0) September 20, 2014.
 8. This paper is subjective perception of creator and it want to be improved by community. After publishing the paper will be restructured to wiki format and moved to [cyber•Wiki](http://wiki.cyber.fund/Main_Page). So after gathering feedback new version will be born as community release.
 
-![](cyberfund_story.png)
+![](images/cyberfund_story.png)
 
 ## Seed
 
@@ -98,7 +98,7 @@ Initial distribution of cyber•Shares happens through Genesis Sale Race. Genesi
 
 ### Value model
 Cybernetic business model that form value for every participant of the system living in the core of cyber • Fund represented in one picture. For make it understandable it follows decomposition principle. For every product should be described low level value model.
-![](cyberfund_core.png)
+![](images/cyberfund_core.png)
 Full size picture published in [png](https://drive.google.com/file/d/0B9S_086dsM0HNmxmWndHQlF0OEE/edit?usp=sharing) and [svg](https://drive.google.com/file/d/0B9S_086dsM0HbGR3d1FQRENpN2s/edit?usp=sharing) or could be commented in Google Docs.
 Cyber • Fund is mixed type of commercial and non-commercial organisation and will tend to keep this balance. But we starting from commercial functions to build in strong survival mechanism inside our structures.
 Model shows that though there is a lot of science problems within industry that is [described by Vitalik](https://github.com/ethereum/wiki/wiki/Problems) cyber•Fund will concentrate on solving product level or consumer problems.
