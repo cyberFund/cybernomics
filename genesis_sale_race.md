@@ -38,322 +38,124 @@ The pool of cyber•Shares for future development. This pool can be used by deci
 
 For investor who accept risks of unsuccessful Genesis Sale Race smart discounts provided. In case of every 12 events will occur price for last Purchaser will be ~42% higher than for the first Purchaser. So program will be target by the following events:
 
---------------------------
-|Event|Discount per event|
---------------------------
-|Awesome site|5%|
----------------------------------
-|Chinese translation of paper|5%|
----------------------------------
-
-Russian translation of paper
-5%
-Coindesk article
-5%
-cyber•Pie prototype
-5%
-cyber•Wallet prototype
-5%
-cyber•Inceptor prototype
-5%
-Amazing video
-5%
-Major conference presentation
-5%
-300 btc founded
-5%
-1000 btc founded
-10%
-5000 btc founded
-15%
+![](images/Risk acceptance program.png)
 
 That is, when the event occurred the price for cyber•Shares will raise. For every event should be provided proof-of-existence.
 For example when the chinese translation of paper will be published, the price for the next Purchasers will be high in 5% from base price. When Awesome site will be published the price for the next Purchasers will be high in 10% and so on.
-Community will be motivated to have these events occurred more quickly. So that program will make the capitalization of cyber•Fund tend to be higher but ensuring fair price of cyber•Shares.
-4 Community involvement program
-Distribution program provides special Sale race award bounty. During Genesis Sale Race everybody from the community of cyber•Fund can receive a part of this bounty for contributing to success of Genesis Sale Race according to the tables below:
-Event
-Award distribution
-Awesome site
-10%
-Chinese translation of paper
-10%
-Coindesk article
-10%
-cyber•Pie prototype
-10%
-cyber•Wallet prototype
-10%
-cyber•Inceptor prototype
-10%
-Amazing video
-10%
-Major conference presentation
-10%
-Tiny rewards to communities
-20%
+Community will be motivated to have these events occurred more quickly. So that program will make the capitalization of cyber•Fund tend to be higher but ensuring fair price of cyber•Shares.
 
-5 Personal motivation program
+##4 Community involvement program
+
+Distribution program provides special Sale race award bounty. During Genesis Sale Race everybody from the community of cyber•Fund can receive a part of this bounty for contributing to success of Genesis Sale Race according to the tables below:
+
+![](image/Community involvement program.png)
+
+##5 Personal motivation program
+
 During Genesis Sale Race for every purchaser who accepts risks of higher volume investments personal motivation program is provided. Than more Purchaser will buy cyber•Shares than better price Purchaser has. Discount will be calculated from the base price.
-Reward
-Min, btc
-Max, btc
-Lifetime co-founder badge
-0%
-1 satoshi
-1
-Chewbacca
-1%
-1
-5
-C-3PO
-2%
-5
-10
-R2-D2
-3%
-10
-50
-Obi-Wan
-4%
-50
-100
-Darth Vader
-5%
-100
-500
-Anakin
-6%
->500
-~
-Yoda
+
+![](image/Personal motivation program.png)
 
 For every Purchaser will be provided unique digital badges issued by cyber•Fund.
+
 In the interest of fairness and inclusiveness, cyber•Fund will apply certain limitations on the sale of cyber•Shares.
+
 In order to give as many interested parties as possible the opportunity to purchase cyber•Shares in the Genesis Sale, cyber•Fund will restrict any single entity, person, corporation, or group from controlling more than 12.5% of the total cyber•Shares sold by the end of the Genesis Sale Race. The purpose of this limitation is to ensure broad, global participation in the Genesis Sale Race.
+
 Any individual, group, corporation, company, entity, or groups of legally connected entities (e.g., multiple entities with the same owner, or multiple entities in which one owns one or more of the others, or multiple entities who have entered into a joint venture) wishing to purchase cyber•Shares for more than 1000 bitcoins must contact cyber•Fund community (preferable) or email to lucky@cyber.fund to clear the purchase.
 
-
-6 Development acceleration program
+##6 Development acceleration program
+
 For boosting development of products and forming community owners of cyber•Shares agrees under following structure of investments and development within seed stage of cyber•Fund:
 
+!p[](image/Development acceleration program.png)
 
-Ugly
-Natural
-Gifted
-Indigo
-Founded, btc
-<300
-<1000
-<5000
->5000
-
-
-
-Shares
-Bitcoins
-Shares
-Bitcoins
-Shares
-Bitcoins
-Shares
-Bitcoins
-Preallocated revenue
-
-
-70
-
-
-70
-
-
-70
-
-
-70
-Seed
-18%
-100%
-16%
-100%
-13%
-100%
-10%
-100%
-Cyber•Wallet contributors
-3%
-30%
-3%
-30%
-2%
-10%
-1%
-10%
-Cyber•Pie contributors
-3%
-20%
-3%
-20%
-2%
-10%
-1%
-10%
-Cyber•Inceptor contributors
-3%
-20%
-3%
-20%
-2%
-10%
-1%
-10%
-Genesis Sale Race awards
-0%
-0%
-1%
-0%
-1.5%
-0%
-2%
-0%
-Cyber•Pie investments
-2%
-10%
-1%
-10%
-1%
-43%
-1%
-44%
-Development investments
-1%
-5%
-0.5%
-5%
-0.5%
-3%
-0.5%
-2%
-Marketing investments
-2%
-5%
-2%
-5%
-1.5%
-7%
-1%
-7%
-Community investments
-2%
-5%
-1%
-5%
-1%
-7%
-1%
-7%
-Cyber•Inceptor Award
-1%
-0%
-1%
-0%
-1%
-0%
-1%
-0%
-Reserve
-1%
-5%
-0.5%
-5%
-0.5%
-10%
-0.5%
-10%
-Community Reserve
-11%
-0%
-18%
-18%
-24%
-24%
-28%
-28%
 Shareholders of cyber•Shares understand that logic is better than any plan, so better decisions could be generated with support of community.
-7 How to purchase cyber•Shares?
+
+##7 How to purchase cyber•Shares?
+
 Cyber•Shares will be distributed through 4 protocols: Colored Coins, Counterparty, Next, BitsharesX. Every protocol has its own pros and cons, so everybody can choose that fit your needs. After the end of Genesis Sale Race for every sender address will be calculated quantity of purchased shares. 
-In case of missing requirements cyber•Shares will be send to unsupported address and consequently 
-will be lost.
-Protocol
-Genesis Sale Race Address
-Requirements
-Colored Coins
-3MrGWx7ZPBt7UgttQ6yWvnEYgy1qTeB8J1
-Send bitcoins only from Coinprism wallet.
 
+**In case of missing requirements cyber•Shares will be send to unsupported address and consequently will be lost.**
+!p[image/invest.jpg]
 
-Counterparty
-3FoLttdpV3UwU24z45hJu7vQe6kz9N2sQd
-Send bitcoins only from Counterwallet.
+##8 Transparency
 
-
-Next
-37xZcHcNsCtfCbqgzuuQzUftdE19M1XdD4
-Send bitcoins from Blockchain wallet and provide Next ID in transaction message
-BitsharesX
-3AcnnYGnucHPWrRLj9h4DzydBivvgq1KU1
-Send bitcoins form Blockchain wallet and provide BitsharesX ID in transaction message
-
-8 Transparency
 In the spirit of openness, and to enable cyber•Shares Purchasers to have as much information as possible to guide their decision making process, cyber•Fund has developed cyber•Shares purchase mechanism that enables purchases to be tracked on the Bitcoin blockchain.
-Each Purchaser has the option to calculate the total number of cyber•Shares sold to enable the Purchaser to develop an understanding of the size of the existing cyber•Shares pool at the time of their cyber•Shares purchase. cyber•Fund will make all purchases publicly visible on the Bitcoin blockchain at the Genesis Sale Race addresses.
-9 Other substantial terms
-Ability to Purchase cyber•Shares in Purchaser’s Jurisdiction
-The Genesis Sale Race constitutes the sale of a legal software product under Cyberlaw. This product sale is conducted by cyber•Fund, a cybercompany, operating under Cyberlaw. It is the responsibility of each potential Purchaser of cyber•Shares to determine if the Purchaser can legally purchase cyber•Shares in the Purchaser’s jurisdiction.
-Acceptance of Terms and Conditions of the cyber•Shares Sale
-As a first step in the purchase process, cyber•Shares will present the white paper with these Terms, and associated documents, along. When the Purchaser send Bitcoins to cyber•Fund account it means that (i)Purchaser consents and agrees to the cyber•Shares Terms of Genesis Sale Race; (ii)represents and warrants that the Purchaser is legally permitted to purchase cyber•Shares in the Purchaser’s jurisdiction and is legally permitted to receive products of cyberorigin;  (iii)represents and warrants that the Purchaser is of a sufficient age to legally purchase cyber•Shares or has received permission from a legal guardian who has reviewed and agreed to these Terms; (iv) represents and warrants that the the Purchaser will take sole responsibility for any restrictions and risks associated with the purchase of cyber•Shares as set forth below; (v) represents and warrants that Purchaser is not exchanging bitcoin (BTC) for cyber•Shares for the purpose of speculative investment; (vi) and represents and warrants that the Purchaser has an understanding of the usage and intricacies of cryptographic tokens, like BTC, and blockchain-based software systems.
-Independent Confirmation of Purchases
-During the purchase process cyber•Fund will provide Purchasers with a unique intermediary BTC address. Using this address, Purchasers can track and confirm that the Purchaser’s BTC has been received at that address and has been subsequently and automatically sent to the Genesis Sales Race addresses. 
-Fraudulent Attempts to Double Spend BTC
-cyber•Fund will monitor all potential transactions for fraudulent attempts to double spend BTC. Any detected double spend of BTC will result in no cyber•Shares being generated in the Genesis Block for the associated wallet address.
-All Purchases of cyber•Fund Are Non-Refundable
-All purchases of cyber•Shares are final. Purchases of cyber•Shares are non-refundable. By purchasing cyber•Shares, the purchaser acknowledges that neither cyber•Fund nor any other of the cyber•Fund parties are required to provide a refund for any reason.
-Early Use of the BTC Revenue from the Genesis Sale Race
-Cyber•Fund can use the BTC revenue from the Genesis Sale Race previously posting calculations to official twitter and if calculations is significant to update the blog.
-Taxation of cyber•Shares and Taxation Related to the Genesis Sale Race
-Cyber•Fund makes no representations concerning the tax implications of the sale of cyber•Shares or the possession or use of cyber•Shares. The Purchaser bears the sole responsibility to determine if the purchase of cyber•Shares with BTC or the potential appreciation or depreciation in the value of cyber•Shares over time has tax implications for the Purchaser in the Purchaser’s home jurisdiction.
-Disclaimer of Warranties
-The purchaser expressly agrees that the purchaser is purchasing cyber•Shares at the purchaser’s sole risk and that cyber•Shares is provided on an "as is" basis without warranties of any kind, cyber•Shares express or implied, including, but not limited to, warranties of title or implied warranties, merchantability or fitness for a particular purpose .
-Without limiting the foregoing, none of the cyber•fund parties warrant that the process for purchasing cyber•shares will be uninterrupted or error-free.
-Force Majeure 
-cyber•Fund is not liable for failure to perform  obligations in the case of Force Majeure 
-Jurisdiction of the Sale
-Cyberspace.
-Changing timing
-Cyber•Fund reserves the right to extend the sale duration for any reason, including the unavailability of the website http://cyber.fund or other unforeseen security or procedural issues. Though it does not currently anticipate doing so, cyber•Fund also reserves the right to shorten the sale duration for any reason.
-Changing terms
-cyber•Fund reserves the right to Updates and changing the Terms of Genesis Sale Race by posting updates to official twitter and if update is significant to update the blog.
-If at any point you do not agree to any portion of the then-current version of the Terms, you should not purchase cyber•Shares.
-Cooperation with Legal Authorities
-All cooperation with Legal Authorities is possible through public communities like reddit, trello, twitter etc. Another way of cooperation is impossible through distributed nature of cyber•Fund.
-10 Certain Risks Associated with the Purchase of cyber•Shares
-The purchase of cyber•Shares carries with it significant risk. Prior to purchasing cyber•Shares, the Purchaser should carefully consider the below risks.
-Risk of Diminishment in the Value of the BTC Sale Revenue
-All Purchasers are paying BTC to purchase cyber•Shares. In the past few months the price of BTC in United States dollars has been relatively stable. However, despite recent price stability, it is possible that the value of BTC will drop significantly in the future, depriving cyber•Fund of sufficient resources to continue to operate. 
-Risk of Losing Access to cyber•Shares Due to Loss of a Wallet File or Password
-As noted above, cyber•Shares will be stored in a wallet, which can only be accessed with a password selected by the Purchaser. 
-Risk of Regulatory Action in One or More Jurisdictions
-Cryptocurrencies have been the subject of regulatory scrutiny by various regulatory bodies around the globe. 
-Risk that the cyber•Fund, As Developed, Will Not Meet the Expectations of Purchaser
-The Purchaser recognizes that the cyber•Fund is presently under early development and may undergo significant changes before release.
-Risk that the cyber•Fund May Never be Completed or Released
-Purchaser understands, that while the cyber•Fund will make reasonable efforts to complete the cyber•Fund Ecosystem, it is possible that an official completed version of the cyber•Fund may not be released.
-Risk of Theft
-Hackers or other groups or organizations may attempt to steal the BTC revenue from the Genesis Sale Race, thus potentially impacting the ability of cyber•Fund to develop and operate. To account for this risk, cyber•Fund has and will continue to implement comprehensive security precautions to safeguard the BTC obtained from the sale of cyber•Shares.
-Multi-factor security measures will be taken to protect BTC and cyber•Shares.
-Risk of Weaknesses or Exploitable Breakthroughs in the Field of Cryptography
-Cryptography is an art, not a science. And the state of the art can advance over time Advances in code cracking, or technical advances such as the development of quantum computers, could present risks to cryptocurrencies and the cyber•Fund, which could result in the theft or loss of cyber•Shares.
-11 Further Information
-For further information regarding the cyber•Fund Genesis Sale Race, please post to cyber•Fund community forum (preferable) or email to google group lucky@cyber.fund.
 
- 
+Each Purchaser has the option to calculate the total number of cyber•Shares sold to enable the Purchaser to develop an understanding of the size of the existing cyber•Shares pool at the time of their cyber•Shares purchase. cyber•Fund will make all purchases publicly visible on the Bitcoin blockchain at the Genesis Sale Race addresses.
+
+##9 Other substantial terms
+
+###Ability to Purchase cyber•Shares in Purchaser’s Jurisdiction
+The Genesis Sale Race constitutes the sale of a legal software product under Cyberlaw. This product sale is conducted by cyber•Fund, a cybercompany, operating under Cyberlaw. It is the responsibility of each potential Purchaser of cyber•Shares to determine if the Purchaser can legally purchase cyber•Shares in the Purchaser’s jurisdiction.
+
+###Acceptance of Terms and Conditions of the cyber•Shares Sale
+As a first step in the purchase process, cyber•Shares will present the white paper with these Terms, and associated documents, along. When the Purchaser send Bitcoins to cyber•Fund account it means that (i)Purchaser consents and agrees to the cyber•Shares Terms of Genesis Sale Race; (ii)represents and warrants that the Purchaser is legally permitted to purchase cyber•Shares in the Purchaser’s jurisdiction and is legally permitted to receive products of cyberorigin;  (iii)represents and warrants that the Purchaser is of a sufficient age to legally purchase cyber•Shares or has received permission from a legal guardian who has reviewed and agreed to these Terms; (iv) represents and warrants that the the Purchaser will take sole responsibility for any restrictions and risks associated with the purchase of cyber•Shares as set forth below; (v) represents and warrants that Purchaser is not exchanging bitcoin (BTC) for cyber•Shares for the purpose of speculative investment; (vi) and represents and warrants that the Purchaser has an understanding of the usage and intricacies of cryptographic tokens, like BTC, and blockchain-based software systems.
+
+###Independent Confirmation of Purchases
+During the purchase process cyber•Fund will provide Purchasers with a unique intermediary BTC address. Using this address, Purchasers can track and confirm that the Purchaser’s BTC has been received at that address and has been subsequently and automatically sent to the Genesis Sales Race addresses. 
+
+###Fraudulent Attempts to Double Spend BTC
+cyber•Fund will monitor all potential transactions for fraudulent attempts to double spend BTC. Any detected double spend of BTC will result in no cyber•Shares being generated in the Genesis Block for the associated wallet address.
+
+###All Purchases of cyber•Fund Are Non-Refundable
+All purchases of cyber•Shares are final. Purchases of cyber•Shares are non-refundable. By purchasing cyber•Shares, the purchaser acknowledges that neither cyber•Fund nor any other of the cyber•Fund parties are required to provide a refund for any reason.
+
+###Early Use of the BTC Revenue from the Genesis Sale Race
+Cyber•Fund can use the BTC revenue from the Genesis Sale Race previously posting calculations to official twitter and if calculations is significant to update the blog.
+
+###Taxation of cyber•Shares and Taxation Related to the Genesis Sale Race
+Cyber•Fund makes no representations concerning the tax implications of the sale of cyber•Shares or the possession or use of cyber•Shares. The Purchaser bears the sole responsibility to determine if the purchase of cyber•Shares with BTC or the potential appreciation or depreciation in the value of cyber•Shares over time has tax implications for the Purchaser in the Purchaser’s home jurisdiction.
+
+###Disclaimer of Warranties
+The purchaser expressly agrees that the purchaser is purchasing cyber•Shares at the purchaser’s sole risk and that cyber•Shares is provided on an "as is" basis without warranties of any kind, cyber•Shares express or implied, including, but not limited to, warranties of title or implied warranties, merchantability or fitness for a particular purpose .
+
+Without limiting the foregoing, none of the cyber•fund parties warrant that the process for purchasing cyber•shares will be uninterrupted or error-free.
+
+###Force Majeure 
+cyber•Fund is not liable for failure to perform  obligations in the case of Force Majeure 
+
+###Jurisdiction of the Sale
+Cyberspace.
+
+###Changing timing
+Cyber•Fund reserves the right to extend the sale duration for any reason, including the unavailability of the website http://cyber.fund or other unforeseen security or procedural issues. Though it does not currently anticipate doing so, cyber•Fund also reserves the right to shorten the sale duration for any reason.
+
+###Changing terms
+cyber•Fund reserves the right to Updates and changing the Terms of Genesis Sale Race by posting updates to official twitter and if update is significant to update the blog.
+
+If at any point you do not agree to any portion of the then-current version of the Terms, you should not purchase cyber•Shares.
+
+###Cooperation with Legal Authorities
+All cooperation with Legal Authorities is possible through public communities like reddit, trello, twitter etc. Another way of cooperation is impossible through distributed nature of cyber•Fund.
+
+##10 Certain Risks Associated with the Purchase of cyber•Shares
+
+The purchase of cyber•Shares carries with it significant risk. Prior to purchasing cyber•Shares, the Purchaser should carefully consider the below risks.
+
+###Risk of Diminishment in the Value of the BTC Sale Revenue
+All Purchasers are paying BTC to purchase cyber•Shares. In the past few months the price of BTC in United States dollars has been relatively stable. However, despite recent price stability, it is possible that the value of BTC will drop significantly in the future, depriving cyber•Fund of sufficient resources to continue to operate. 
+
+###Risk of Losing Access to cyber•Shares Due to Loss of a Wallet File or Password
+As noted above, cyber•Shares will be stored in a wallet, which can only be accessed with a password selected by the Purchaser. 
+
+###Risk of Regulatory Action in One or More Jurisdictions
+Cryptocurrencies have been the subject of regulatory scrutiny by various regulatory bodies around the globe. 
+
+###Risk that the cyber•Fund, As Developed, Will Not Meet the Expectations of Purchaser
+The Purchaser recognizes that the cyber•Fund is presently under early development and may undergo significant changes before release.
+
+###Risk that the cyber•Fund May Never be Completed or Released
+Purchaser understands, that while the cyber•Fund will make reasonable efforts to complete the cyber•Fund Ecosystem, it is possible that an official completed version of the cyber•Fund may not be released.
+
+###Risk of Theft
+Hackers or other groups or organizations may attempt to steal the BTC revenue from the Genesis Sale Race, thus potentially impacting the ability of cyber•Fund to develop and operate. To account for this risk, cyber•Fund has and will continue to implement comprehensive security precautions to safeguard the BTC obtained from the sale of cyber•Shares.
+
+Multi-factor security measures will be taken to protect BTC and cyber•Shares.
+
+###Risk of Weaknesses or Exploitable Breakthroughs in the Field of Cryptography
+Cryptography is an art, not a science. And the state of the art can advance over time Advances in code cracking, or technical advances such as the development of quantum computers, could present risks to cryptocurrencies and the cyber•Fund, which could result in the theft or loss of cyber•Shares.
+
+##11 Further Information
+For further information regarding the cyber•Fund Genesis Sale Race, please post to cyber•Fund community forum (preferable) or email to google group lucky@cyber.fund. 
