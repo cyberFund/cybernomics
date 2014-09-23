@@ -17,8 +17,8 @@ The distribution model motivates community to reach funding goals.  More funded 
 
 After Genesis Sale Race will finished depending of the amount BTC that will be founded, will be calculated quantity of cyber•Shares that will be distributed to:
 
-<img src=images/pie />
+<img src=images/pie.png/>
 
-
+qweqwee
 
  
