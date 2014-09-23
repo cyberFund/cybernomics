@@ -1,7 +1,7 @@
 # Liryc history
 
 ## Before Artificial Intelligence
-There is a lot interesting stuff in history of human civilisation. Let me remember the most important events that have form mindsets inside existing economical system. That is just 3 major events. But that is how contemporary [Religions](https://en.wikipedia.org/wiki/Religion), [Politics](https://en.wikipedia.org/wiki/Politics) and [World economy](https://en.wikipedia.org/wiki/World_economy)came.
+There is a lot interesting stuff in history of human civilisation. Let me remember the most important events that have form mindsets inside existing economical system. That is just 3 major events. But that is how contemporary [Religions](https://en.wikipedia.org/wiki/Religion), [Politics](https://en.wikipedia.org/wiki/Politics) and [World economy](https://en.wikipedia.org/wiki/World_economy) came.
 ### Roman Law. ~449 BC
 Roman Law was ingenious in terms of community intelligence or politics with [separation of powers principle](https://en.wikipedia.org/wiki/Separation_of_powers). 3 branches: Executive, Legislative and Judicial. That system works with slight differences in the core of any existing nation level systems. This systems was born too early and peoples was in need with something much more simple to Trust. Trust = Capitalization with weak proof. Maybe that is why:
 ### Jesus birth. ~AC
