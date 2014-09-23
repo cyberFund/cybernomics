@@ -47,7 +47,7 @@ Community will be motivated to have these events occurred more quickly. So that 
 
 ## 4 Community involvement program
 Distribution program provides special Sale race award bounty. During Genesis Sale Race everybody from the community of cyber•Fund can receive a part of this bounty for contributing to success of Genesis Sale Race according to the tables below:
-![](imamges/community_involvement_program.png)
+![](images/community_involvement_program.png)
 
 ## 5 Personal motivation program
 During Genesis Sale Race for every purchaser who accepts risks of higher volume investments personal motivation program is provided. Than more Purchaser will buy cyber•Shares than better price Purchaser has. Discount will be calculated from the base price.
