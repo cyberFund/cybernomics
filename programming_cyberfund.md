@@ -99,7 +99,8 @@ Initial distribution of cyber•Shares happens through Genesis Sale Race. Genesi
 ### Value model
 Cybernetic business model that form value for every participant of the system living in the core of cyber • Fund represented in one picture. For make it understandable it follows decomposition principle. For every product should be described low level value model.
 ![](images/cyberfund_core.png)
-Full size picture published in [png](https://drive.google.com/file/d/0B9S_086dsM0HNmxmWndHQlF0OEE/edit?usp=sharing) and [svg](https://drive.google.com/file/d/0B9S_086dsM0HbGR3d1FQRENpN2s/edit?usp=sharing) or could be commented in Google Docs.
+Full size picture published in [png](https://drive.google.com/file/d/0B9S_086dsM0HNmxmWndHQlF0OEE/edit?usp=sharing) and [svg](https://drive.google.com/file/d/0B9S_086dsM0HbGR3d1FQRENpN2s/edit?usp=sharing) or could be commented in [Google Docs](https://docs.google.com/document/d/1u1C8Xl5BXyTD9K_ErO29TwgevjCprY5asVA-RrV1Zo8/edit?usp=sharing).
+
 Cyber • Fund is mixed type of commercial and non-commercial organisation and will tend to keep this balance. But we starting from commercial functions to build in strong survival mechanism inside our structures.
 Model shows that though there is a lot of science problems within industry that is [described by Vitalik](https://github.com/ethereum/wiki/wiki/Problems) cyber•Fund will concentrate on solving product level or consumer problems.
 

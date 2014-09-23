@@ -40,17 +40,19 @@ The pool of cyber•Shares for future development. This pool can be used by deci
 For investor who accept risks of unsuccessful Genesis Sale Race smart discounts provided. In case of every 12 events will occur price for last Purchaser will be ~42% higher than for the first Purchaser. So program will be target by the following events:
 
 ![](images/risk_acceptance_program.png)
+
 That is, when the event occurred the price for cyber•Shares will raise. For every event should be provided [proof-of-existence](http://www.proofofexistence.com/).
 For example when the chinese translation of paper will be published, the price for the next Purchasers will be high in 5% from base price. When Awesome site will be published the price for the next Purchasers will be high in 10% and so on.
 Community will be motivated to have these events occurred more quickly. So that program will make the capitalization of cyber•Fund tend to be higher but ensuring fair price of cyber•Shares.
 
 ## 4 Community involvement program
 Distribution program provides special Sale race award bounty. During Genesis Sale Race everybody from the community of cyber•Fund can receive a part of this bounty for contributing to success of Genesis Sale Race according to the tables below:
-![](community_involvement_program.png)
+![](imamges/community_involvement_program.png)
 
 ## 5 Personal motivation program
 During Genesis Sale Race for every purchaser who accepts risks of higher volume investments personal motivation program is provided. Than more Purchaser will buy cyber•Shares than better price Purchaser has. Discount will be calculated from the base price.
-![](personal_motivation_program.png)
+![](images/personal_motivation_program.png)
+
 For every Purchaser will be provided unique digital badges issued by cyber•Fund.
 
 In the interest of fairness and inclusiveness, cyber•Fund will apply certain limitations on the sale of cyber•Shares.
@@ -71,6 +73,7 @@ Cyber•Shares will be distributed through 4 protocols: Colored Coins, Counterpa
 will be lost.</span></strong>
 
 ![](images/invest.jpg)
+
 For convenient purchase there is [special page](http://cyber.fund/invest)
 
 ## 8 Transparency
