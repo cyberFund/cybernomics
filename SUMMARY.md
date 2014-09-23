@@ -9,4 +9,5 @@
 * [Cybernetic economy vision](cybernetic_economy_vision.md)
 * [Join cybernetic revolution](join_cybernetic_revolution.md)
 * [Genesis Sale Race](genesis_sale_race.md)
+* [References](references.md)
 
