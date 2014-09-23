@@ -11,13 +11,13 @@ The Genesis Sale Race will run for 61 days and will end at 23:59:59 GMT on Novem
 Particular quantity of cyber•Shares to distribute will be calculated and published after 3 days after finishing GSR.
 For ensuring successful funding and smooth community involvement within Genesis Sale Race provided 5 motivation programs: funding boost program, risk acceptance program, community involvement program, personal motivation program and development program.
 
-№№2 Funding boost program
+##2 Funding boost program
 
 The distribution model motivates community to reach funding goals.  More funded => less goes to founders, more to purchaser, more for future developments => more stable ecosystem becomes.
 
 After Genesis Sale Race will finished depending of the amount BTC that will be founded, will be calculated quantity of cyber•Shares that will be distributed to:
 
-<img src=images/pie.png/>
+![](images/pie.png)
 
 qweqwee
 
