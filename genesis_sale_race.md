@@ -1,12 +1,17 @@
 # Terms of Genesis Sale Race
 
 ## 1 General
-* Genesis Address invented [1BQmQ9Qh73yZ37R7pHrxvXoREPa4Am1Qqw](https://www.coinprism.info/address/1BQmQ9Qh73yZ37R7pHrxvXoREPa4Am1Qqw).
-* Decided that there is only 1 000 000 of True [cyber•Shares](https://www.coinprism.info/asset/3BUQAssohZgE13keAeRTgy5jnGSHR1v119) ever existed.
-* The Genesis Sale Race will begin from a moment of proving the existence of this paper.
-* The Genesis Sale Race will run for 61 days and will end at 23:59:59 GMT on November 20, 2014.
-* Particular quantity of cyber•Shares to distribute will be calculated and published after 3 days after finishing GSR.
-* For ensuring successful funding and smooth community involvement within Genesis Sale Race provided 5 motivation programs: funding boost program, risk acceptance program, community involvement program, personal motivation program and development program.
+Genesis Address invented [1BQmQ9Qh73yZ37R7pHrxvXoREPa4Am1Qqw](https://www.coinprism.info/address/1BQmQ9Qh73yZ37R7pHrxvXoREPa4Am1Qqw).
+
+Decided that there is only 1 000 000 of True [cyber•Shares](https://www.coinprism.info/asset/3BUQAssohZgE13keAeRTgy5jnGSHR1v119) ever existed.
+
+The Genesis Sale Race will begin from a moment of proving the existence of this paper.
+
+The Genesis Sale Race will run for 61 days and will end at 23:59:59 GMT on November 20, 2014.
+
+Particular quantity of cyber•Shares to distribute will be calculated and published after 3 days after finishing GSR.
+
+For ensuring successful funding and smooth community involvement within Genesis Sale Race provided 5 motivation programs: funding boost program, risk acceptance program, community involvement program, personal motivation program and development program.
 
 ## 2 Funding boost program
 The distribution model motivates community to reach funding goals.  More funded => less goes to founders, more to purchaser, more for future developments => more stable ecosystem becomes.
@@ -41,10 +46,11 @@ Community will be motivated to have these events occurred more quickly. So that 
 
 ## 4 Community involvement program
 Distribution program provides special Sale race award bounty. During Genesis Sale Race everybody from the community of cyber•Fund can receive a part of this bounty for contributing to success of Genesis Sale Race according to the tables below:
+![](Community involvement program.png)
 
 ## 5 Personal motivation program
 During Genesis Sale Race for every purchaser who accepts risks of higher volume investments personal motivation program is provided. Than more Purchaser will buy cyber•Shares than better price Purchaser has. Discount will be calculated from the base price.
-
+![](Community involvement program.png)
 For every Purchaser will be provided unique digital badges issued by cyber•Fund.
 
 In the interest of fairness and inclusiveness, cyber•Fund will apply certain limitations on the sale of cyber•Shares.
@@ -65,6 +71,7 @@ Cyber•Shares will be distributed through 4 protocols: Colored Coins, Counterpa
 will be lost.</span></strong>
 
 ![](images/invest.jpg)
+For convenient purchase there is [special page](http://cyber.fund/invest)
 
 ## 8 Transparency
 In the spirit of openness, and to enable cyber•Shares Purchasers to have as much information as possible to guide their decision making process, cyber•Fund has developed cyber•Shares purchase mechanism that enables purchases to be tracked on the Bitcoin blockchain.
