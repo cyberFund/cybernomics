@@ -68,7 +68,7 @@ Any individual, group, corporation, company, entity, or groups of legally connec
 
 For boosting development of products and forming community owners of cyber•Shares agrees under following structure of investments and development within seed stage of cyber•Fund:
 
-!p[](images/Development acceleration program.png)
+![](images/Development acceleration program.png)
 
 Shareholders of cyber•Shares understand that logic is better than any plan, so better decisions could be generated with support of community.
 
@@ -77,7 +77,7 @@ Shareholders of cyber•Shares understand that logic is better than any plan, so
 Cyber•Shares will be distributed through 4 protocols: Colored Coins, Counterparty, Next, BitsharesX. Every protocol has its own pros and cons, so everybody can choose that fit your needs. After the end of Genesis Sale Race for every sender address will be calculated quantity of purchased shares. 
 
 **In case of missing requirements cyber•Shares will be send to unsupported address and consequently will be lost.**
-!p[images/invest.jpg]
+![](images/invest.jpg)
 
 ##8 Transparency
 
