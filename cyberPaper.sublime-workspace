@@ -230,10 +230,21 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/21xhipster/Github/cyberpaper"
+		"/Users/21xhipster/Github/cyberPaper"
 	],
 	"file_history":
 	[
+		"/Users/21xhipster/Github/cyberPaper/genesis_sale_race.md",
+		"/Users/21xhipster/Github/cyberPaper/programming_cyberfund.md",
+		"/Users/21xhipster/Github/cyberPaper/cybernetic_business_framework.md",
+		"/Users/21xhipster/Github/cyberPaper/cybernetic_economy_vision.md",
+		"/Users/21xhipster/Github/cyberPaper/images/ain_capitalization_forcast.jpg",
+		"/Users/21xhipster/Github/cyberPaper/references.md",
+		"/Users/21xhipster/Github/cyberPaper/liryc_history.md",
+		"/Users/21xhipster/Github/cyberPaper/join_cybernetic_revolution.md",
+		"/Users/21xhipster/Github/cyberPaper/SUMMARY.md",
+		"/Users/21xhipster/Github/cyberPaper/README.md",
+		"/Users/21xhipster/Github/cyberPaper/proof_of_origin.md",
 		"/Users/21xhipster/Github/cyberpaper/SUMMARY.md",
 		"/Users/21xhipster/Github/cyberpaper/cyberPaper/artificial_intelligent_networks.md",
 		"/Users/21xhipster/Github/cyberpaper/README.md",
@@ -350,22 +361,11 @@
 		"/Users/21xhipster/Github/cyberfund/bigquery.py",
 		"/Users/21xhipster/Github/cyberfund/rates.py",
 		"/Users/21xhipster/Github/cyberfund/cron.yaml",
-		"/Users/21xhipster/Github/cyberfund/static/models/boilerplate.js",
-		"/Users/21xhipster/Github/cyberfund/static/outro.js",
-		"/Users/21xhipster/Github/cyberfund/oauth2client/old_run.py",
-		"/Users/21xhipster/Github/cyberfund/oauth2client/tools.py",
-		"/Users/dmitry/code/contracts/handler.py",
-		"/Users/dmitry/code/contracts/constants.py",
-		"/Users/dmitry/code/contracts/templates/contract.html",
-		"/Users/dmitry/code/contracts/model/contract.py",
-		"/Users/dmitry/code/contracts/contracts.sublime-project",
-		"/Users/dmitry/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
-		"/Users/dmitry/code/contracts/six/six.py",
-		"/Users/dmitry/code/contracts/model/user.py"
+		"/Users/21xhipster/Github/cyberfund/static/models/boilerplate.js"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -382,6 +382,26 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"png",
+			"Nodes",
+			"=======",
+			"cyberla",
+			"commu",
+			"cybern",
+			"&rsquo;",
+			"&#39;",
+			"<h2 class=\"c9\"><a name=",
+			"proof",
+			"<a class=\"c3\" href=\"",
+			"</span><span class=\"c8\">",
+			"AC",
+			"\"><",
+			"</span><span class=\"c8\">",
+			"ly",
+			"\"><",
+			"</span><span class=\"c8\">",
+			"\"><",
+			"</span></p><p class=\"c9\"><span>",
 			"HEAD",
 			"Programming cyber • Fund",
 			"Proof-of-origin",
@@ -489,32 +509,12 @@
 			"col-md-3",
 			"col-col-md-3",
 			"md-2",
-			"h3",
-			"4x",
-			"1",
-			".html",
-			"base-mining.html",
-			"product.html",
-			"base-min",
-			"RedirectRoute",
-			"r",
-			"RedirectRoute",
-			"future",
-			"logout",
-			"=>",
-			"h2",
-			"h3",
-			"h2",
-			"h3",
-			"com",
-			"Узнать",
-			"Заказать",
-			"#"
+			"h3"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
 		],
@@ -973,7 +973,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 257.0,
+	"side_bar_width": 299.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

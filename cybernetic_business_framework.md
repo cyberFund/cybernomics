@@ -92,7 +92,7 @@ In accordance with our vision core bodies are (though everybody can use creative
 Continuous purpose of brain parts and bodies to automate tasks and operations pushing it to artificial agents. We can divide artificial agents in terms of CBF into 2 types:
 * Contracts - software intelligent agents that work on ready to use infrastructure (like Ethereum) that solve particular task receiving some value for every operation.
 * Nodes - hardware agents that solve particular task. If some operation is more efficient to execute using specialised network of nodes we can reflect it on our model though we should understand that building specialised network of nodes is much more complicated than using ready to use infrastructure.
-
+![](cbf_sample.png)
 These abstract example of how result could looks like. Non abstract example you can find exploring cyber&bull;Fund value model here
 Designing your global brain by means of CBF is very easy to start it almost without artificial agents and continuously transfer them operations as cashflows growth and bodies become stronger. As result of continuous, widespread and open source development the matter of short time than ready to use libraries of artificial agents will be available for everybody.
 

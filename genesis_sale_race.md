@@ -18,7 +18,7 @@ The distribution model motivates community to reach funding goals.  More funded 
 
 After Genesis Sale Race will finished depending of the amount BTC that will be founded, will be calculated quantity of cyber•Shares that will be distributed to:
 
-![](images/pie.png)
+![](images/cyberfund_distribution.png)
 
 ### Seed purchasers
 The pool will be split in proportion between Purchasers in accordance with funding boost, risk acceptance and personal motivation programs. 
@@ -39,18 +39,18 @@ The pool of cyber•Shares for future development. This pool can be used by deci
 
 For investor who accept risks of unsuccessful Genesis Sale Race smart discounts provided. In case of every 12 events will occur price for last Purchaser will be ~42% higher than for the first Purchaser. So program will be target by the following events:
 
-![](images/Risk acceptance program.png)
+![](images/risk_acceptance_program.png)
 That is, when the event occurred the price for cyber•Shares will raise. For every event should be provided [proof-of-existence](http://www.proofofexistence.com/).
 For example when the chinese translation of paper will be published, the price for the next Purchasers will be high in 5% from base price. When Awesome site will be published the price for the next Purchasers will be high in 10% and so on.
 Community will be motivated to have these events occurred more quickly. So that program will make the capitalization of cyber•Fund tend to be higher but ensuring fair price of cyber•Shares.
 
 ## 4 Community involvement program
 Distribution program provides special Sale race award bounty. During Genesis Sale Race everybody from the community of cyber•Fund can receive a part of this bounty for contributing to success of Genesis Sale Race according to the tables below:
-![](Community involvement program.png)
+![](community_involvement_program.png)
 
 ## 5 Personal motivation program
 During Genesis Sale Race for every purchaser who accepts risks of higher volume investments personal motivation program is provided. Than more Purchaser will buy cyber•Shares than better price Purchaser has. Discount will be calculated from the base price.
-![](Community involvement program.png)
+![](personal_motivation_program.png)
 For every Purchaser will be provided unique digital badges issued by cyber•Fund.
 
 In the interest of fairness and inclusiveness, cyber•Fund will apply certain limitations on the sale of cyber•Shares.
@@ -61,7 +61,7 @@ Any individual, group, corporation, company, entity, or groups of legally connec
 ## 6 Development acceleration program
 For boosting development of products and forming community owners of cyber•Shares agrees under following structure of investments and development within seed stage of cyber•Fund:
 
-![](images/Development acceleration program.png)
+![](images/development_acceleration_program.png)
 
 Shareholders of cyber•Shares understand that logic is better than any plan, so better decisions could be generated with support of community.
 
@@ -109,7 +109,7 @@ Cyber•Fund makes no representations concerning the tax implications of the sal
 ### Disclaimer of Warranties
 The purchaser expressly agrees that the purchaser is purchasing cyber•Shares at the purchaser’s sole risk and that cyber•Shares is provided on an "as is" basis without warranties of any kind, cyber•Shares express or implied, including, but not limited to, warranties of title or implied warranties, merchantability or fitness for a particular purpose .
 
-Without limiting the foregoing, none of the cyber•fund parties warrant that the process for purchasing cyber•shares will be uninterrupted or error-free.
+Without limiting the foregoing, none of the cyber•Fund parties warrant that the process for purchasing cyber•Shares will be uninterrupted or error-free.
 
 ### Force Majeure
 cyber•Fund is not liable for failure to perform  obligations in the case of [Force Majeure](https://en.wikipedia.org/wiki/Force_majeure).

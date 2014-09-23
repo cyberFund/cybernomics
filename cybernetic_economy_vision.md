@@ -4,7 +4,7 @@ Cybernetics economic system or CES or simply, cybereconomy - complex of existing
 
 Cybereconomy is changing the main criterion for economic decision-making from the desire to increase individual capital(capitalism) and public property(socialism) to new motivation criterion equilibrium.
 Capitalism, nowadays system motivates people to accumulate equity. Successful people in that system of values ​​is a person who has accumulated more capital. Exclusively personal gain makes people egoists and often motivates them to do acts only for themselves but damaging society (corruption, environmental pollution, etc.).
-
+![](cybereconomy.png)
 Cybereconomy - is a system based on the principle of equilibrium between private and public. The profitability of the system proved by existence of [Nash Equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium). Cybereconomy is already exists in the world of Open Source software. This logic of production seems absurd from the point of view of capitalism. Involvement and social control in the economic and technological development processes by decentralizing decision-making in economic development planning between participants in the economic process. Cybernetic business framework change the system labor organization from centralized system to decentralized.
 
 The new economy some people define as cryptoeconomy. That definition reflects only one component, while cybernetic economy is more comprehensive definition. Cybereconomy nobody saw for 6 years. While in fact cybereconomy is much more intelligent by design than any existing industry:
@@ -17,9 +17,10 @@ Existence of cybereconomy is surprisingly for humanity. But that is much more ex
 
 ## Artificial Intelligent Networks
 World economy growth increase year after year. What factors could push world economy growth even faster?
-GDP Internet Bitcoin.pngSource: cyber•Fund forecast.
+![](gdp_forcast.jpg)
+Source: cyber•Fund forecast.
 Wikipedia keeps comprehensive [list of emerging technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies) that сould predetermine this boom. Cryptocurrencies is just one of diffusing technologies there. But if we assume that artificial intelligent network technology could lead to strong artificial intelligence faster and could empower emergence of almost any technology from the list we can state that hyperbolic economic growth is possible and wait the planet in next 10 years. That is logic to forecasting growth of peoples faith in artificial intelligent networks with unbelievable pace disrupting industry after industry multiplying human wealth.
-
+![](ain_capitalization_forcast.jpg)
 Source: cyber•Fund forecast.
 It could be more pessimistic than in the table with “help” of governments, but generally these pace in accordance with principles of system dynamics is inevitable. That is very interesting for me to look on media. Especially how they will explain all this stuff for peoples.
 If we assume that any problem could be solved with AIN technology and this is the only industry that will form future economy there is 4 applied industry that will spin cybernetic economy:
