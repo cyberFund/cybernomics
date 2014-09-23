@@ -48,13 +48,13 @@ Community will be motivated to have these events occurred more quickly. So that 
 
 Distribution program provides special Sale race award bounty. During Genesis Sale Race everybody from the community of cyber•Fund can receive a part of this bounty for contributing to success of Genesis Sale Race according to the tables below:
 
-![](image/Community involvement program.png)
+![](images/Community involvement program.png)
 
 ##5 Personal motivation program
 
 During Genesis Sale Race for every purchaser who accepts risks of higher volume investments personal motivation program is provided. Than more Purchaser will buy cyber•Shares than better price Purchaser has. Discount will be calculated from the base price.
 
-![](image/Personal motivation program.png)
+![](images/Personal motivation program.png)
 
 For every Purchaser will be provided unique digital badges issued by cyber•Fund.
 
@@ -68,7 +68,7 @@ Any individual, group, corporation, company, entity, or groups of legally connec
 
 For boosting development of products and forming community owners of cyber•Shares agrees under following structure of investments and development within seed stage of cyber•Fund:
 
-!p[](image/Development acceleration program.png)
+!p[](images/Development acceleration program.png)
 
 Shareholders of cyber•Shares understand that logic is better than any plan, so better decisions could be generated with support of community.
 
@@ -77,7 +77,7 @@ Shareholders of cyber•Shares understand that logic is better than any plan, so
 Cyber•Shares will be distributed through 4 protocols: Colored Coins, Counterparty, Next, BitsharesX. Every protocol has its own pros and cons, so everybody can choose that fit your needs. After the end of Genesis Sale Race for every sender address will be calculated quantity of purchased shares. 
 
 **In case of missing requirements cyber•Shares will be send to unsupported address and consequently will be lost.**
-!p[image/invest.jpg]
+!p[images/invest.jpg]
 
 ##8 Transparency
 
