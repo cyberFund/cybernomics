@@ -1,16 +1,14 @@
 # Terms of Genesis Sale Race
 
 ## 1 General
-
-Genesis Address invented [1BQmQ9Qh73yZ37R7pHrxvXoREPa4Am1Qqw](https://www.coinprism.info/address/1BQmQ9Qh73yZ37R7pHrxvXoREPa4Am1Qqw).
-Decided that there is only 1 000 000 of True [cyber•Shares](https://www.coinprism.info/asset/3BUQAssohZgE13keAeRTgy5jnGSHR1v119) ever existed.
-The Genesis Sale Race will begin from a moment of proving the existence of this paper.
-The Genesis Sale Race will run for 61 days and will end at 23:59:59 GMT on November 20, 2014.
-Particular quantity of cyber•Shares to distribute will be calculated and published after 3 days after finishing GSR.
-For ensuring successful funding and smooth community involvement within Genesis Sale Race provided 5 motivation programs: funding boost program, risk acceptance program, community involvement program, personal motivation program and development program.
+* Genesis Address invented [1BQmQ9Qh73yZ37R7pHrxvXoREPa4Am1Qqw](https://www.coinprism.info/address/1BQmQ9Qh73yZ37R7pHrxvXoREPa4Am1Qqw).
+* Decided that there is only 1 000 000 of True [cyber•Shares](https://www.coinprism.info/asset/3BUQAssohZgE13keAeRTgy5jnGSHR1v119) ever existed.
+* The Genesis Sale Race will begin from a moment of proving the existence of this paper.
+* The Genesis Sale Race will run for 61 days and will end at 23:59:59 GMT on November 20, 2014.
+* Particular quantity of cyber•Shares to distribute will be calculated and published after 3 days after finishing GSR.
+* For ensuring successful funding and smooth community involvement within Genesis Sale Race provided 5 motivation programs: funding boost program, risk acceptance program, community involvement program, personal motivation program and development program.
 
 ## 2 Funding boost program
-
 The distribution model motivates community to reach funding goals.  More funded => less goes to founders, more to purchaser, more for future developments => more stable ecosystem becomes.
 
 After Genesis Sale Race will finished depending of the amount BTC that will be founded, will be calculated quantity of cyber•Shares that will be distributed to:
@@ -42,11 +40,9 @@ For example when the chinese translation of paper will be published, the price f
 Community will be motivated to have these events occurred more quickly. So that program will make the capitalization of cyber•Fund tend to be higher but ensuring fair price of cyber•Shares.
 
 ## 4 Community involvement program
-
 Distribution program provides special Sale race award bounty. During Genesis Sale Race everybody from the community of cyber•Fund can receive a part of this bounty for contributing to success of Genesis Sale Race according to the tables below:
 
 ## 5 Personal motivation program
-
 During Genesis Sale Race for every purchaser who accepts risks of higher volume investments personal motivation program is provided. Than more Purchaser will buy cyber•Shares than better price Purchaser has. Discount will be calculated from the base price.
 
 For every Purchaser will be provided unique digital badges issued by cyber•Fund.
@@ -57,35 +53,25 @@ In order to give as many interested parties as possible the opportunity to purch
 Any individual, group, corporation, company, entity, or groups of legally connected entities (e.g., multiple entities with the same owner, or multiple entities in which one owns one or more of the others, or multiple entities who have entered into a joint venture) wishing to purchase cyber•Shares for more than 1000 bitcoins must contact [cyber•Fund community](http://forum.cyber.fund/) (preferable) or email to lucky@cyber.fund to clear the purchase.
 
 ## 6 Development acceleration program
-
 For boosting development of products and forming community owners of cyber•Shares agrees under following structure of investments and development within seed stage of cyber•Fund:
 
-<<<<<<< HEAD
-=======
 ![](images/Development acceleration program.png)
 
->>>>>>> FETCH_HEAD
 Shareholders of cyber•Shares understand that logic is better than any plan, so better decisions could be generated with support of community.
 
 ## 7 How to purchase cyber•Shares?
-
-<<<<<<< HEAD
 Cyber•Shares will be distributed through 4 protocols: Colored Coins, Counterparty, Next, BitsharesX. Every protocol has its own pros and cons, so everybody can choose that fit your needs. After the end of Genesis Sale Race for every sender address will be calculated quantity of purchased shares.
-<span style="color:red; text-align:center;">In case of missing requirements cyber•Shares will be send to unsupported address and consequently
-will be lost.</span>
-=======
-**In case of missing requirements cyber•Shares will be send to unsupported address and consequently will be lost.**
+<strong><span style="color:red; text-align:center;">In case of missing requirements cyber•Shares will be send to unsupported address and consequently
+will be lost.</span></strong>
+
 ![](images/invest.jpg)
->>>>>>> FETCH_HEAD
 
 ## 8 Transparency
-
 In the spirit of openness, and to enable cyber•Shares Purchasers to have as much information as possible to guide their decision making process, cyber•Fund has developed cyber•Shares purchase mechanism that enables purchases to be tracked on the Bitcoin blockchain.
 
 Each Purchaser has the option to calculate the total number of cyber•Shares sold to enable the Purchaser to develop an understanding of the size of the existing cyber•Shares pool at the time of their cyber•Shares purchase. cyber•Fund will make all purchases publicly visible on the Bitcoin blockchain at the Genesis Sale Race addresses.
 
 ## 9 Other substantial terms
-
 ### Ability to Purchase cyber•Shares in Purchaser’s Jurisdiction
 The Genesis Sale Race constitutes the sale of a legal software product under [Cyberlaw](https://projects.eff.org/~barlow/Declaration-Final.html). This product sale is conducted by cyber•Fund, a cybercompany, operating under Cyberlaw. It is the responsibility of each potential Purchaser of cyber•Shares to determine if the Purchaser can legally purchase cyber•Shares in the Purchaser’s jurisdiction.
 
@@ -136,7 +122,6 @@ If at any point you do not agree to any portion of the then-current version of t
 All cooperation with Legal Authorities is possible through public communities like reddit, trello, twitter etc. Another way of cooperation is impossible through distributed nature of cyber•Fund.
 
 ##10 Certain Risks Associated with the Purchase of cyber•Shares
-
 The purchase of cyber•Shares carries with it significant risk. Prior to purchasing cyber•Shares, the Purchaser should carefully consider the below risks.
 
 ###Risk of Diminishment in the Value of the BTC Sale Revenue
@@ -164,5 +149,4 @@ Multi-factor security measures will be taken to protect BTC and cyber•Shares.
 Cryptography is an art, not a science. And the state of the art can advance over time Advances in code cracking, or technical advances such as the development of quantum computers, could present risks to cryptocurrencies and the cyber•Fund, which could result in the theft or loss of cyber•Shares.
 
 ## 11 Further Information
-
 For further information regarding the cyber•Fund Genesis Sale Race, please post to [cyber•Fund community forum](http://forum.cyber.fund/) (preferable) or email to google group lucky@cyber.fund.
