@@ -67,7 +67,7 @@ Genesis neurons serves as starting trust network through cyber•Fund global bra
 * Reddit is convenient place with awesome community to disсuss almost anything. But cyber•Fund asks help of community to allow subreddit [r/cyberFund](http://www.reddit.com/r/cyberFund).
 * [cyber•Wiki](http://wiki.cyber.fund) is great place to accumulate structured knowledges.
 * [cyber•Forum](http://forum.cyber.fund) is our community.
-* All important updates happens in [cyber•Blog](http://blog.cyber.fund].
+* All important updates happens in [cyber•Blog](http://blog.cyber.fund).
 * Of course cyber•Fund like to [tweet](https://twitter.com/cyberfundio).
 * There is two more official channels: [Google+](https://plus.google.com/+CyberfundIo/posts) and [Facebook](https://www.facebook.com/cyberfund) that replicates some important information.
 * Managing values

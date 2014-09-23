@@ -1,3 +1,65 @@
-#Join cybernetic revolution
+# Join cybernetic revolution
 
-<h2 class="c9"><a name="h.pe0t2ody2f5j"></a><span>Understand 14 basic terms behind global intelligence</span></h2><h3 class="c9 c16"><a name="h.yksn9enar2tp"></a><span>Cybereconomy</span></h3><p class="c9"><span>That is economy that exist on peoples belief in cybervalues full of meaning that cryptographically proved.</span></p><h3 class="c9 c16"><a name="h.tuflf53x63r"></a><span>Meaning</span></h3><p class="c9 c77 c34"><span>That is the reason why peoples will believe in the code of a system.</span></p><h3 class="c9 c16"><a name="h.frts7f21jbh6"></a><span>Proof</span></h3><p class="c9 c77 c34"><span>Way of proving that something happens. The fundamental term behind intelligence.</span></p><h3 class="c9 c24 c16"><a name="h.t4l9527k2dlh"></a><span>Value</span></h3><p class="c9"><span>That is just some digits that you see on a screen for any type of digital asset. That is inborn right for everybody to see different digits on a screen and value it with some meaning.</span></p><h3 class="c9 c16"><a name="h.cp1912nryp28"></a><span>Blockchain</span></h3><p class="c9"><span>Distributed ledger that just exist and could not be destroyed.</span></p><h3 class="c9 c16"><a name="h.x18p8qd83u7t"></a><span>Private Key or Digital Signature</span></h3><p class="c9 c77 c34"><span>That is the only way to control values you have and something hints us that is the only way to control our minds. Keep it safe.</span></p><h3 class="c9 c16"><a name="h.xhl0kd5bxbuo"></a><span>Algorithm</span></h3><p class="c9"><span>That is rules of one way calculation of your Public Key from Private Key. Cybereconomy builds on principle that there is no economically efficient way to calculate your Private Key from your Public Key. </span></p><h3 class="c9 c16"><a name="h.uxiymknb0ol"></a><span>Public Key</span></h3><p class="c9 c77 c34"><span>That is the address. Just like number of your banking account. And it looks like:</span></p><p class="c9 c77 c34"><span class="c8"><a class="c3" href="https://www.google.com/url?q=https%3A%2F%2Fwww.coinprism.info%2Faddress%2F1BQmQ9Qh73yZ37R7pHrxvXoREPa4Am1Qqw&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGLLezKVQ_kRFDYdPnvTMZnrm2j0w">1BQmQ9Qh73yZ37R7pHrxvXoREPa4Am1Qqw</a></span></p><p class="c9"><span>But it was calculated from your Private Key using Algorithm.</span></p><p class="c9 c77 c34"><span>Public keys could be applied to anything.</span></p><h3 class="c9 c16"><a name="h.nqvq7rzd7ggj"></a><span>Transaction</span></h3><p class="c9 c77 c34"><span>Transaction happens then you sign transaction with your Private Key and send it to network from any wallet</span></p><h3 class="c9 c16"><a name="h.9ez5xtvzt86u"></a><span>Block</span></h3><p class="c9 c77 c34"><span>Some piece of information that couldn&rsquo;t be destroyed without fatal consequences for the whole system.</span></p><h3 class="c9 c24 c16"><a name="h.tz6urrqoxq5s"></a><span>Security</span></h3><p class="c9"><span>Than you are sure that there is no way to know or reverse engineer your Private Key.</span></p><h3 class="c9 c24 c16"><a name="h.1xzk2r3fusu1"></a><span>Multi Sig</span></h3><p class="c9"><span>Then more than 1 Private Key needed to sign transaction.</span></p><h3 class="c9 c16"><a name="h.pz675xggxykg"></a><span>Genesis address</span></h3><p class="c9"><span>Shares issuance initial address. Any cyber business starts from genesis address. </span></p><h3 class="c9 c16"><a name="h.uu9d29fswlis"></a><span>Privacy and Publicity</span></h3><p class="c9"><span>Everybody have right to choose remain private or become public.</span></p><p class="c5"><span></span></p><h2 class="c9"><a name="h.3l3o1v5lzhm2"></a><span>Learn, learn and learn...</span></h2><p class="c9"><span>That is historically proved that learn is the only chance to survive. That is not the problem right now. There is:</span></p><ul class="c15 lst-kix_geebkyj4xw32-0 start"><li class="c9 c19"><span class="c8"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F1tyie8H&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNF94mmHpO7d5N16_VQ11G6Do8_b6w">Wikipedia</a></span><span>&nbsp;for general knowledges</span></li><li class="c9 c19"><span class="c8"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F1wgdidp&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE-xTWXcu6pvUAg7KWqDDgbUpgOug">Coursera</a></span><span>&nbsp;for university knowledges</span></li><li class="c9 c19"><span class="c8"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F1uwrQT3&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHhora5cwslUiVEyKABJybpEHTIQQ">Codecademy</a></span><span>&nbsp;and </span><span class="c8"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2FYuodSS&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGU0NprNG0ZXW6KoVonocyI9TUtPQ">Github</a></span><span>&nbsp;to understand machines</span></li><li class="c9 c19"><span class="c8"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F1qM8fww&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFPsovakrFnr97fiP3aloQGvvSyIQ">Human Brain Project</a></span><span>&nbsp;to understand peoples and animals</span></li><li class="c9 c19"><span class="c8"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F1osIUV6&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHQgzCI9TrYe5ksj0lHUEPEGWv3uQ">cyber&bull;Wiki</a></span><span>&nbsp;to understand global brains</span></li><li class="c9 c19"><span class="c8"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2FWKkU8z&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEj3acMjDd13TWiu60i6ePp4QPY3g">Lingua Leo</a></span><span>&nbsp;to understand at least peoples</span></li></ul><h2 class="c9"><a name="h.8sj853o1tzwn"></a><span>Further reading</span></h2><p class="c9"><span>Look through regularly updating </span><span class="c8"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F1rWW8AI&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHLsTR3wyPfFBmdw3NSoYPnwY7hWw">reading list</a></span><span>&nbsp;in our cyber&bull;Wiki.</span></p><h2 class="c9"><a name="h.9qkk7k6herj2"></a><span>Begin to use our wallet :-)</span></h2><p class="c9"><span>cyber &bull; Fund begin to evolve </span><span class="c8"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F1luAKQI&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH4Ue8cn_5GKlKuzdoVewOMAgqzoA">Jah</a></span><span>. First open source intelligent wallet for any type of digital property. Try our </span><span class="c8"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F1CT6GmT&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGPlKgszxXbjGb_0QNiuOX86xC9Ww">cyber&bull;Wallet</a></span><span>&nbsp;implementation.</span></p><h2 class="c9"><a name="h.7s91wis0j76i"></a><span>Share our ideas? Donate a bit!</span></h2><p class="c9"><span>There is </span><span>genesis address </span><span>for donations. All donations goes for non-commercial purposes.</span></p><h2 class="c9"><a name="h.sglz94v8ieor"></a><span>Evolve cyber&bull;Fund with us. Become cyber developer &amp; partner!</span></h2><p class="c9"><span>We have launch strong foundation with </span><span class="c8"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F1uICntJ&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEVkHX18sm9IoOVgmOMuGf4NHdrAw">Trello</a></span><span>&nbsp;love.</span></p><p class="c9"><span>We have embed comprehensive bounty program for scientists, developers, engineers, marketers, creative peoples, officials, journalists and of course for entrepreneurs. Now everybody can join and build new generation cybereconomy together. </span></p><h2 class="c9"><a name="h.8ot2w79r808c"></a><span>Control the system. Become cyber shareholder!</span></h2><p class="c9"><span>cyber &bull; Fund Genesys Sale Race have been started. September 20, 2014 - that is the date when everybody can bring some value for cyber&bull;Fund ideas. Genesis Sale Race will end on November 20, 2014.</span></p><h2 class="c9"><a name="h.gsk4taelrllf"></a><span>Earn values. Become cyber investor!</span></h2><p class="c9 c64"><span>We are working on cyber&bull;Pie - the most intelligent revolutionary investment portfolio. That is not just another investments. That is the most intelligent investments ever existed.</span></p><h2 class="c9 c64"><a name="h.p4kvciruql47"></a><span>Cyber your ideas. Become cyber entrepreneur!</span></h2><p class="c9 c64"><span>We are working on cyber&bull;Inceptor - disruptive way to make your ideas live.</span></p><p class="c5 c33 c51"><span class="c89 c11"></span></p><p class="c9 c57"><span class="c73">cyber </span><span class="c71">&bull;</span><span class="c73">&nbsp;Fund</span></p><p class="c9 c57"><span>was born to shine for all Humanity</span></p><p class="c9 c109"><span class="c13">Appendix A</span></p><h1 class="c9 c16 c57"><a name="h.22zj2omc9zsv"></a>
+Understand 14 basic terms behind global intelligence
+
+## Cybereconomy
+That is economy that exist on peoples belief in cybervalues full of meaning that cryptographically proved.
+## Meaning
+That is the reason why peoples will believe in the code of a system.
+## Proof
+Way of proving that something happens. The fundamental term behind intelligence.
+## Value
+That is just some digits that you see on a screen for any type of digital asset. That is inborn right for everybody to see different digits on a screen and value it with some meaning.
+## Blockchain
+Distributed ledger that just exist and could not be destroyed.
+## Private Key or Digital Signature
+That is the only way to control values you have and something hints us that is the only way to control our minds. Keep it safe.
+## Algorithm
+That is rules of one way calculation of your Public Key from Private Key. Cybereconomy builds on principle that there is no economically efficient way to calculate your Private Key from your Public Key.
+## Public Key
+That is the address. Just like number of your banking account. And it looks like:
+1BQmQ9Qh73yZ37R7pHrxvXoREPa4Am1Qqw
+But it was calculated from your Private Key using Algorithm.
+Public keys could be applied to anything.
+## Transaction
+Transaction happens then you sign transaction with your Private Key and send it to network from any wallet
+## Block
+Some piece of information that couldn’t be destroyed without fatal consequences for the whole system.
+## Security
+Than you are sure that there is no way to know or reverse engineer your Private Key.
+## Multi Sig
+Then more than 1 Private Key needed to sign transaction.
+## Genesis address
+Shares issuance initial address. Any cyber business starts from genesis address.
+## Privacy and Publicity
+Everybody have right to choose remain private or become public.
+## Learn, learn and learn...
+That is historically proved that learn is the only chance to survive. That is not the problem right now. There is:
+* Wikipedia for general knowledges
+* Coursera for university knowledges
+* Codecademy and Github to understand machines
+* Human Brain Project to understand peoples and animals
+* cyber•Wiki to understand global brains
+* Lingua Leo to understand at least peoples
+
+## Further reading
+Look through regularly updating reading list in our cyber•Wiki.
+
+## Begin to use our wallet :-)
+cyber • Fund begin to evolve Jah. First open source intelligent wallet for any type of digital property. Try our cyber•Wallet implementation.
+
+## Share our ideas? Donate a bit!
+There is genesis address for donations. All donations goes for non-commercial purposes.
+
+## Evolve cyber•Fund with us. Become cyber developer & partner!
+We have launch strong foundation with Trello love.
+We have embed comprehensive bounty program for scientists, developers, engineers, marketers, creative peoples, officials, journalists and of course for entrepreneurs. Now everybody can join and build new generation cybereconomy together.
+
+## Control the system. Become cyber shareholder!
+cyber • Fund Genesys Sale Race have been started. September 20, 2014 - that is the date when everybody can bring some value for cyber•Fund ideas. Genesis Sale Race will end on November 20, 2014.
+
+## Earn values. Become cyber investor!
+We are working on cyber•Pie - the most intelligent revolutionary investment portfolio. That is not just another investments. That is the most intelligent investments ever existed.
+
+## Cyber your ideas. Become cyber entrepreneur!
+We are working on cyber•Inceptor - disruptive way to make your ideas live.

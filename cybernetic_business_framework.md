@@ -4,7 +4,7 @@ Cyber entrepreneurs. Who are these guys? That is entrepreneurship of 3d millenni
 
 3 years ago we thought that Bitcoin is finance revolution. 2 years ago become obvious that Bitcoin is engineering revolution with pack of algorithms and proofs. 1 year ago we scented management revolution with DAOs. Now is time for revolution of intelligence.
 
-Cybernetic Business Framework or CBF or simply, cyberframework [cybernetics](https://en.wikipedia.org/wiki/Cybernetics) method that uses mixed biological and artificial intelligent agents on top of existing crypto network infrastructure as global brains to [solve problems](http://www.dieoff.org/page163.htm) significantly efficient. 
+Cybernetic Business Framework or CBF or simply, cyberframework [cybernetics](https://en.wikipedia.org/wiki/Cybernetics) method that uses mixed biological and artificial intelligent agents on top of existing crypto network infrastructure as global brains to [solve problems](http://www.dieoff.org/page163.htm) significantly efficient.
 
 ## Paper work
 Cyber business on paper? Hm... Traditional business already starts from paper. Charter or constituent agreement or something else depending on jurisdiction. Purpose of traditional documents is to clear agreements between shareholders and guarantee their rights. How can we achieve this purpose issuing shares in cyberspace? There is an answer. By publishing paper with proof of existence you can ensure your shareholders that:
@@ -97,7 +97,7 @@ These abstract example of how result could looks like. Non abstract example you 
 Designing your global brain by means of CBF is very easy to start it almost without artificial agents and continuously transfer them operations as cashflows growth and bodies become stronger. As result of continuous, widespread and open source development the matter of short time than ready to use libraries of artificial agents will be available for everybody.
 
 ## Apps Engine
-The fact that in existing world any business could be started with limited pack of apps is open to us the simple idea. This knowledge could be easily adopted by any existing business through easiness of initial installing and using. This list of apps is essential and can save a lot of time and money. This knowledges are big part of cybernetic business framework. We will gather this knowledges in our [special wiki page](http://wiki.cyber.fund/Apps) 
+The fact that in existing world any business could be started with limited pack of apps is open to us the simple idea. This knowledge could be easily adopted by any existing business through easiness of initial installing and using. This list of apps is essential and can save a lot of time and money. This knowledges are big part of cybernetic business framework. We will gather this knowledges in our [special wiki page](http://wiki.cyber.fund/Apps).
 
 ## How to create global brain?
 
