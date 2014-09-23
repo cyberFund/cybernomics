@@ -60,13 +60,23 @@ Any individual, group, corporation, company, entity, or groups of legally connec
 
 For boosting development of products and forming community owners of cyber•Shares agrees under following structure of investments and development within seed stage of cyber•Fund:
 
+<<<<<<< HEAD
+=======
+![](images/Development acceleration program.png)
+
+>>>>>>> FETCH_HEAD
 Shareholders of cyber•Shares understand that logic is better than any plan, so better decisions could be generated with support of community.
 
 ## 7 How to purchase cyber•Shares?
 
+<<<<<<< HEAD
 Cyber•Shares will be distributed through 4 protocols: Colored Coins, Counterparty, Next, BitsharesX. Every protocol has its own pros and cons, so everybody can choose that fit your needs. After the end of Genesis Sale Race for every sender address will be calculated quantity of purchased shares.
 <span style="color:red; text-align:center;">In case of missing requirements cyber•Shares will be send to unsupported address and consequently
 will be lost.</span>
+=======
+**In case of missing requirements cyber•Shares will be send to unsupported address and consequently will be lost.**
+![](images/invest.jpg)
+>>>>>>> FETCH_HEAD
 
 ## 8 Transparency
 
