@@ -234,6 +234,28 @@
 	],
 	"file_history":
 	[
+		"/Users/21xhipster/Github/cyberpaper/README.md",
+		"/Users/21xhipster/Github/cyberpaper/.gitignore",
+		"/Users/21xhipster/Github/cyberpaper/SUMMARY.md",
+		"/Users/21xhipster/Github/cyberpaper/cyberPaper/SUMMARY.md",
+		"/Users/21xhipster/Github/cyberpaper/artificial_intelligent_networks.md",
+		"/Users/21xhipster/Github/cyberpaper/genesis_sale_race.md",
+		"/Users/21xhipster/Github/cyberpaper/cybernetic_business_framework.md",
+		"/Users/21xhipster/Github/cyberpaper/programming_cyber_fund.md",
+		"/Users/21xhipster/Github/cyberpaper/proof-of-origin.md",
+		"/Users/21xhipster/Github/cyberpaper/references.md",
+		"/Users/21xhipster/Github/cyberpaper/join_cybernetic_revolution.md",
+		"/Users/21xhipster/Github/cyberpaper/cybernetic_economy_vision/cybernetic_economy_vision.md",
+		"/Users/21xhipster/Github/cyberpaper/references/references.md",
+		"/Users/21xhipster/Github/cyberpaper/liryc_history.md",
+		"/Users/21xhipster/Github/cyberpaper/references/README.md",
+		"/Users/21xhipster/Github/cyberpaper/genesis_sale_race/README.md",
+		"/Users/21xhipster/Github/cyberpaper/join_cybernetic_revolution/README.md",
+		"/Users/21xhipster/Github/cyberpaper/cybernetic_economy_vision/README.md",
+		"/Users/21xhipster/Github/cyberpaper/programming_cyber_fund/README.md",
+		"/Users/21xhipster/Github/cyberpaper/cybernetic_business_framework/README.md",
+		"/Users/21xhipster/Github/cyberpaper/artificial_intelligent_networks/README.md",
+		"/Users/21xhipster/Github/cyberpaper/proof-of-origin/README.md",
 		"/Users/21xhipster/Github/cyberfund/templates/base.html",
 		"/Users/21xhipster/Github/cyberfund/app.yaml",
 		"/Users/21xhipster/Github/cyberfund/templates/invest.html",
@@ -339,33 +361,11 @@
 		"/Users/dmitry/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
 		"/Users/dmitry/code/contracts/six/six.py",
 		"/Users/dmitry/code/contracts/model/user.py",
-		"/Users/dmitry/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
-		"/Users/dmitry/code/contracts/templates/tags.html",
-		"/Users/dmitry/code/contracts/tag.py",
-		"/Users/dmitry/code/contracts/test/testApi.py",
-		"/Users/dmitry/code/contracts/templates/components/common-title-branding.html",
-		"/Users/dmitry/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/Users/dmitry/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/dmitry/code/contracts/contract.py",
-		"/Users/dmitry/code/contracts/backends.yaml",
-		"/Users/dmitry/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/Users/dmitry/code/contracts/model/subscription.py",
-		"/Users/dmitry/code/contracts/css/modal.css",
-		"/Users/dmitry/code/contracts/main.py",
-		"/Users/dmitry/code/contracts/twitter.py",
-		"/Users/dmitry/code/contracts/model/company.py",
-		"/Users/dmitry/code/contracts/subscription.py",
-		"/Users/dmitry/code/contracts/model/tag.py",
-		"/Users/dmitry/code/contracts/settings.py",
-		"/Users/dmitry/code/contracts/cron.yaml",
-		"/Users/dmitry/code/contracts/js/main.js",
-		"/Users/dmitry/code/contracts/app.yaml",
-		"/Users/dmitry/code/contracts/setup.cfg",
-		"/Users/dmitry/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings"
+		"/Users/dmitry/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -382,6 +382,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"HEAD",
+			"Programming cyber • Fund",
+			"Proof-of-origin",
+			"Artificial intelligent networks",
+			"</span></p><p class=\"c9\"><span>",
+			"</",
+			"</span></p><p class=\"c9\"><span>",
+			"></",
+			"</span></p><p class=\"c9\"><span>",
+			".</",
+			"</span></p><p class=\"c9\"><span>",
+			"span",
+			"</span></p><p class=\"c9\"><span>",
 			"FETCH_HEAD",
 			"HEAD",
 			"Head",
@@ -496,20 +509,7 @@
 			"com",
 			"Узнать",
 			"Заказать",
-			"#",
-			"преимущест",
-			"Рыцарь",
-			"href=\"#\"",
-			"price",
-			"Пиздатое",
-			"что я получ",
-			"кибер",
-			"cyber",
-			"price",
-			"p>",
-			"p",
-			"center",
-			"полную"
+			"#"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -534,7 +534,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 34.0
+		"height": 23.0
 	},
 	"input":
 	{
