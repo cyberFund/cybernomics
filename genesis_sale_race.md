@@ -128,29 +128,28 @@ cyber•Fund reserves the right to Updates and changing the Terms of Genesis Sal
 
 If at any point you do not agree to any portion of the then-current version of the Terms, you should not purchase cyber•Shares.
 
-###Cooperation with Legal Authorities
+### Cooperation with Legal Authorities
 All cooperation with Legal Authorities is possible through public communities like reddit, trello, twitter etc. Another way of cooperation is impossible through distributed nature of cyber•Fund.
 
-##10 Certain Risks Associated with the Purchase of cyber•Shares
+## 10 Certain Risks Associated with the Purchase of cyber•Shares
 The purchase of cyber•Shares carries with it significant risk. Prior to purchasing cyber•Shares, the Purchaser should carefully consider the below risks.
 
-###Risk of Diminishment in the Value of the BTC Sale Revenue
+### Risk of Diminishment in the Value of the BTC Sale Revenue
 All Purchasers are paying BTC to purchase cyber•Shares. In the past few months the price of BTC in United States dollars has been relatively stable. However, despite recent price stability, it is possible that the value of BTC will drop significantly in the future, depriving cyber•Fund of sufficient resources to continue to operate. 
 
-###Risk of Losing Access to cyber•Shares Due to Loss of a Wallet File or Password
+### Risk of Losing Access to cyber•Shares Due to Loss of a Wallet File or Password
 As noted above, cyber•Shares will be stored in a wallet, which can only be accessed with a password selected by the Purchaser. 
 
-###Risk of Regulatory Action in One or More Jurisdictions
+### Risk of Regulatory Action in One or More Jurisdictions
 Cryptocurrencies have been the subject of regulatory scrutiny by various regulatory bodies around the globe. 
 
-###Risk that the cyber•Fund, As Developed, Will Not Meet the Expectations of Purchaser
+### Risk that the cyber•Fund, As Developed, Will Not Meet the Expectations of Purchaser
 The Purchaser recognizes that the cyber•Fund is presently under early development and may undergo significant changes before release.
 
-###Risk that the cyber•Fund May Never be Completed or Released
+### Risk that the cyber•Fund May Never be Completed or Released
 Purchaser understands, that while the cyber•Fund will make reasonable efforts to complete the cyber•Fund Ecosystem, it is possible that an official completed version of the cyber•Fund may not be released.
 
 ### Risk of Theft
-
 Hackers or other groups or organizations may attempt to steal the BTC revenue from the Genesis Sale Race, thus potentially impacting the ability of cyber•Fund to develop and operate. To account for this risk, cyber•Fund has and will continue to implement comprehensive security precautions to safeguard the BTC obtained from the sale of cyber•Shares.
 
 Multi-factor security measures will be taken to protect BTC and cyber•Shares.
