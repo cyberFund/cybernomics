@@ -1,5 +1,7 @@
 {
-    "name": "book",
-    "version": "0.0.0",
-    "dependencies": {}
+  "name": "book",
+  "version": "0.0.0",
+  "dependencies": {
+    "gitbook-plugin-anchors": "^0.3.0"
+  }
 }
