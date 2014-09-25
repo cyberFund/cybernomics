@@ -2,27 +2,26 @@
     "links": {
         "about": "http://cyber.fund",
         "contribute": "https://github.com/cyberFund/cyberPaper",
-
         "custom": {
             "cyber•Fund": "http://cyber.fund"
         },
-
         "sharing": {
             "google": "https://plus.google.com/+CyberfundIo",
             "facebook": "https://www.facebook.com/cyberfund",
             "twitter": "https://twitter.com/cyberfundio"
         }
     },
-
-{
-    "plugins": [ "disqus"; "ga" ],
-    pluginsConfig: {
+    "plugins": [
+        "anchors",
+        "ga",
+        "disqus"
+    ],
+    "pluginsConfig": {
         "disqus": {
             "shortName": "cyberpaper"
-        }
+        },
         "ga": {
-            "token": "UA-49238979-2",
-            }
+            "token": "UA-49238979-2"
         }
     }
 }
