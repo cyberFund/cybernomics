@@ -1,13 +1,11 @@
 {
     "plugins": [ "anchors", "disqus", "ga" ],
     pluginsConfig: {
-        "disqus": {
-            "shortName": "XXXXXXX"
-        }
+        // "disqus": {
+        //     "shortName": "XXXXXXX"
+        // }
         "ga": {
             "token": "UA-49238979-2",
-            "configuration": {
-                "cookieDomain": "paper.cyber.fund"
             }
         }
     }
