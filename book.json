@@ -1,9 +1,9 @@
 {
     "plugins": [ "anchors", "disqus", "ga" ],
     pluginsConfig: {
-        // "disqus": {
-        //     "shortName": "XXXXXXX"
-        // }
+        "disqus": {
+            "shortName": "cyberpaper"
+        }
         "ga": {
             "token": "UA-49238979-2",
             }
