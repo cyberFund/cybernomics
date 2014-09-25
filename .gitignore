@@ -1,2 +1,4 @@
 .grunt
-/_book/
+.DS_Store
+_book
+node_modules
