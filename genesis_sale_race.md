@@ -70,7 +70,9 @@ Shareholders of cyber•Shares understand that logic is better than any plan, so
 ## 7 How to purchase cyber•Shares?
 
 Step 1: Register [Coinprism wallet](https://www.coinprism.com/signup).
+
 Step 2: From Coinprism account send any amount of bitcoins you want to invest to the address of cyber•Fund: 3MrGWx7ZPBt7UgttQ6yWvnEYgy1qTeB8J1
+
 Step 3: You will receive your shares in 3 days after the end of Genesis Sale Race (20 November 2014)
 
 ## 8 Transparency
