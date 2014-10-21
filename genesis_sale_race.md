@@ -68,13 +68,10 @@ For boosting development of products and forming community owners of cyber•Sha
 Shareholders of cyber•Shares understand that logic is better than any plan, so better decisions could be generated with support of community.
 
 ## 7 How to purchase cyber•Shares?
-Cyber•Shares will be distributed through 4 protocols: Colored Coins, Counterparty, Next, BitsharesX. Every protocol has its own pros and cons, so everybody can choose that fit your needs. After the end of Genesis Sale Race for every sender address will be calculated quantity of purchased shares.
-<strong><span style="color:red; text-align:center;">In case of missing requirements cyber•Shares will be send to unsupported address and consequently
-will be lost.</span></strong>
 
-![](images/invest.jpg)
-
-For convenient purchase there is [special page](http://cyber.fund/invest)
+Step 1: Register [Coinprism wallet](https://www.coinprism.com/signup).
+Step 2: From Coinprism account send any amount of bitcoins you want to invest to the address of cyber•Fund: 3MrGWx7ZPBt7UgttQ6yWvnEYgy1qTeB8J1
+Step 3: You will receive your shares in 3 days after the end of Genesis Sale Race (20 November 2014)
 
 ## 8 Transparency
 In the spirit of openness, and to enable cyber•Shares Purchasers to have as much information as possible to guide their decision making process, cyber•Fund has developed cyber•Shares purchase mechanism that enables purchases to be tracked on the Bitcoin blockchain.
