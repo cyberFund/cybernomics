@@ -33,7 +33,8 @@ Then more than 1 Private Key needed to sign transaction.
 Shares issuance initial address. Any cyber business starts from genesis address.
 ### Privacy and Publicity
 Everybody have right to choose remain private or become public.
-### Learn, learn and learn...
+
+## Learn, learn and learn...
 That is historically proved that learn is the only chance to survive. That is not the problem right now. There is:
 * [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) for general knowledges
 * [Coursera](https://www.coursera.org/) for university knowledges
