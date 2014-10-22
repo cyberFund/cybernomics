@@ -1,3 +1,5 @@
+This is draft of the book and needs to be edited. There is [bounty](https://www.bountysource.com/issues/5038653-professional-editing-38-1000-cfs-10000-cpaper) for participation.
+
 # Abstract
 
 Intelligence - that is what humanity all the road excited the most. But what the intelligence is? Intelligence is very complicated. But obvious that intelligence is the ability to learn for survival. Some guys are still saying that Darwin Law is not the Science. Okey! That is their inborn right:-) But now with Science we know that such guys have much more less chances to survive. That is it. That is nature.
