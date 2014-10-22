@@ -230,17 +230,21 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/21xhipster/Github/cyberPaper"
 	],
 	"file_history":
 	[
-		"/Users/21xhipster/Github/cyberPaper/genesis_sale_race.md",
-		"/Users/21xhipster/Github/cyberPaper/programming_cyberfund.md",
-		"/Users/21xhipster/Github/cyberPaper/cybernetic_business_framework.md",
 		"/Users/21xhipster/Github/cyberPaper/cybernetic_economy_vision.md",
-		"/Users/21xhipster/Github/cyberPaper/images/ain_capitalization_forcast.jpg",
-		"/Users/21xhipster/Github/cyberPaper/references.md",
+		"/Users/21xhipster/Github/cyberPaper/book.json",
+		"/Users/21xhipster/Github/cyberPaper/package.json",
+		"/Users/21xhipster/Github/cyberPaper/.gitignore",
+		"/Users/21xhipster/Github/cyberPaper/cyberPaper.sublime-project",
 		"/Users/21xhipster/Github/cyberPaper/liryc_history.md",
+		"/Users/21xhipster/Github/cyberPaper/genesis_sale_race.md",
+		"/Users/21xhipster/Github/cyberPaper/artificial_intelligent_networks.md",
+		"/Users/21xhipster/Github/cyberPaper/programming_cyberfund.md",
+		"/Users/21xhipster/Github/cyberPaper/references.md",
+		"/Users/21xhipster/Github/cyberPaper/cybernetic_business_framework.md",
+		"/Users/21xhipster/Github/cyberPaper/images/ain_capitalization_forcast.jpg",
 		"/Users/21xhipster/Github/cyberPaper/join_cybernetic_revolution.md",
 		"/Users/21xhipster/Github/cyberPaper/SUMMARY.md",
 		"/Users/21xhipster/Github/cyberPaper/README.md",
@@ -356,12 +360,7 @@
 		"/Users/21xhipster/Github/cyberfund/oauth2client/clientsecrets.py",
 		"/Users/21xhipster/Github/cyberfund/static/models/bullet.js",
 		"/Users/21xhipster/Github/cyberfund/_build.py",
-		"/Users/21xhipster/Github/cyberfund/setup.cfg",
-		"/Users/21xhipster/Github/cyberfund/templates/faq-mining.html",
-		"/Users/21xhipster/Github/cyberfund/bigquery.py",
-		"/Users/21xhipster/Github/cyberfund/rates.py",
-		"/Users/21xhipster/Github/cyberfund/cron.yaml",
-		"/Users/21xhipster/Github/cyberfund/static/models/boilerplate.js"
+		"/Users/21xhipster/Github/cyberfund/setup.cfg"
 	],
 	"find":
 	{
@@ -382,6 +381,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"png",
+			"jpg",
+			"png",
+			"jpg",
 			"png",
 			"Nodes",
 			"=======",
@@ -505,11 +508,7 @@
 			"3x",
 			"h2",
 			"h5",
-			"fa-2x",
-			"col-md-3",
-			"col-col-md-3",
-			"md-2",
-			"h3"
+			"fa-2x"
 		],
 		"highlight": true,
 		"in_selection": false,

@@ -13,7 +13,7 @@ The new economy some people define as cryptoeconomy. That definition reflects on
 * ability to [reproduce spices](http://coinmarketcap.com/) is fantastic,
 * ability to [survive](https://en.wikipedia.org/wiki/Artificial_general_intelligence) seems to be almost immortal through distributed nature.
 
-Existence of cybereconomy is surprisingly for humanity. But that is much more exciting than autonomous strong AI existence. Global brains confront mankind with many new dilemmas right now. But anyway the only way to perceive them is just to accept.
+Existence of cybereconomy is surprisingly for humanity. But that is much more exciting than autonomous strong AI existence. Global brains confront mankind with many new dilemmas right now. But anyway the only way to perceive them is just to accept.4
 
 ## Artificial Intelligent Networks
 World economy growth increase year after year. What factors could push world economy growth even faster?
