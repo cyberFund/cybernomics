@@ -18,7 +18,7 @@
     ],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "cyberpaper"
+            "shortName": "cyberfund"
         },
         "ga": {
             "token": "UA-49238979-2"
