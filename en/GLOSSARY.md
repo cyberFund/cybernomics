@@ -8,8 +8,8 @@ Way of proving that something happens. The fundamental term behind intelligence.
 That is just some digits that you see on a screen for any type of digital asset. That is inborn right for everybody to see different digits on a screen and value it with some meaning.
 # Blockchain
 Distributed ledger that just exist and could not be destroyed.
-# Private Key or Digital Signature
-That is the only way to control values you have and something hints us that is the only way to control our minds. Keep it safe.
+# Private Key
+Your digital signature. That is the only way to control values you have and something hints us that is the only way to control our minds. Keep it safe.
 # Algorithm
 That is rules of one way calculation of your Public Key from Private Key. Cybereconomy builds on principle that there is no economically efficient way to calculate your Private Key from your Public Key.
 # Public Key
