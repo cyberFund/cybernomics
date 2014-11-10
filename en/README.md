@@ -1,5 +1,3 @@
-This is draft of the book and needs to be edited. There is [bounty](https://www.bountysource.com/issues/5038653-professional-editing-38-1000-cfs-10000-cpaper) for participation.
-
 # Abstract
 
 Intelligence - that is what humanity all the road excited the most. But what the intelligence is? Intelligence is very complicated. But obvious that intelligence is the ability to learn for survival. Some guys are still saying that Darwin Law is not the Science. Okey! That is their inborn right:-) But now with Science we know that such guys have much more less chances to survive. That is it. That is nature.
@@ -8,12 +6,17 @@ Cybernetics as a science have began to evolve from [Norbert Wiener](https://en.w
 
 <span style="color:red">Problem</span>: Solve problems with infinite efficiency.
 
-<span style="color:yellow">Solution</span>: Problem of efficiency could be solved by creating artificial intelligent networks (AIN) on top of emerging cryptocurrency infrastructure by means of cybernetic business framework (CBF).
+<span style="color:yellow">Solution</span>: Problem of efficiency could be solved by creating artificial intelligent networks (AIN) on top of emerging cryptocurrency infrastructure by means of Cybernetic Business Framework (CBF).
 
-CBF offers clear guidelines for implementing cybernetic theory into disruptive planet scale products that infinitely more efficient than existing industries.
+CBF acts as commuinty generated Body of Knowledge for implementing cybernetic theory and cryptocurrency best practises into disruptive planet scale products that infinitely more efficient than existing industries.
 
 <span style="color:blue">Hypothesis</span>: Global brains will absorb any existing industry growthing in capitalization 10 times every 24 months. To prove this hypothesis cyber&bull;Fund has been created by this paper. For balancing existing cybereconomy and make it more meaningful this paper describes proof-of-origin paradigm.
 
-We can simply describe our proposals as system there is peoples that program peoples continuously think about meaningful efficiency of anything motivating them to program computers to automatically prove anything and to program another peoples to participate in this process. That will lead existing legacy economy to cybernetic economy there exist nothing-to-proof aftersingularity world. But that is another part of story. The purpose of this paper is to shed some light on how that all happens, exist and will evolve.
+We can simply describe our proposals as system there is people that: 
+- program peoples continuously think about meaningful efficiency of anything 
+- motivating them to program computers to automatically prove anything
+- program another peoples to participate in this process. 
+
+That will lead existing legacy economy to cybernetic economy there exist nothing-to-proof aftersingularity world. But that is another part of story. The purpose of this paper is to shed some light on how that all happens, exist and will evolve.
 
 <span style="color:green">Keywords</span>: bitcoin, cybernetics, global brains, cryptocurrencies, ethereum, ripple, bitshares, next, maidsafe, skycoin, artificial intelligence, intelligence, self-consciousness, self-organization, memetics, principia cybernetica, ai, ain, economics, ces, cbs, proof-of-origin.

@@ -37,6 +37,15 @@ Fair distribution is inherent part of success. Why? In open environment everythi
 ## Funding ~~vs~~ and Development
 Some guys say that no product - no investments. Trendy [growth hacking](https://en.wikipedia.org/wiki/Growth_hacking) demonstrate power of marketing first concept. Traditional problem of chicken or the egg. Evolution suggests that smarter do it as parallel iterative processes. No meaning to develop product that market doesn't needs. No meaning to market product that couldn't be efficiently developed. Simple. Cybernetic business framework is approach than marketing meets development. Genesis Sale Race is tool for any entrepreneur to check meaningful of his efforts.
 
+#Proof-of-origin
+
+Proof-of-Origin - method of cryptographically proving origin of non system or derivative values that was moved from one protocol to another in accordance with proof-of-existence agreement between shareholders using blockchain endorsement.
+Basic idea behind proof-of-origin paradigm is to make possible easy and transparent cross chain moving of any digital asset. But we see 3 more key purposes of using proposed approach:
+1. Access for global brains to several distribution channels of shares. On the date of publishing paper for end users is available 4 distributed protocols for shares issuance: Next, Counterparty, BitsharesX and Colored Coins. That is very beginning. 65 trln. market of public companies and unknown but huge market of private companies could form the whole universe of protocols and tokens.
+2. Split industry into two areas: system level tokens that drive revenue from hardware utilisation (artificial agents), and product level tokens that drive revenue from user utilisation (biological agents). This paradigm is clear for both hardware and software engineers. So in case of this split happens Bitcoin could be primary medium of exchange not only between fiat and crypto but also between cryptohard and cryptosoft.
+3. Make survival mechanisms of product level global brains more stronger and independent on particular system &nbsp;existence. In case of death of some artificial intelligent system assets could be moved by users to more efficient system.
+Endorsement of moving shares from one system to another could be implemented using Ethereum contracts. The specific implementation will be defined within process of cyber&bull;Wallet implementation. Obvious cons of proof-of-origin paradigm is different implementation of specific features: dividends, votes, issues burning possibility etc. Eventually there is strong demand on both crosschain &amp; crossapp protocol for issuance of derivative tokens. For bootstrapping cyber&bull;Fund will use proof-of-origin manually registering movements until implementation won't be developed.
+
 ## Cashflow engine
 Cashflows. That is the most exciting part of cybernetic business framework. In CBF we use cashflows as attention mechanism. 
 
