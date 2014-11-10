@@ -1,3 +1,5 @@
+This early draft of whether paper, whether a book. If you excited about ideas, or interested in cryptocurrency don't hesitate and [subscribe](http://21xhipster.gitbooks.io/cyberfund/) for updates newsletter.
+
 # Abstract
 
 Intelligence - that is what humanity all the road excited the most. But what the intelligence is? Intelligence is very complicated. But obvious that intelligence is the ability to learn for survival. Some guys are still saying that Darwin Law is not the Science. Okey! That is their inborn right:-) But now with Science we know that such guys have much more less chances to survive. That is it. That is nature.
