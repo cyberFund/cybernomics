@@ -27,6 +27,7 @@ Let me warm up your appetite with some sweets. You can ask - what i will get fro
  - 400 million cyberassets will be issued;
  - 10 million DApss will be developed;
  - 1 mln blockchains will be exist.
+ 
 Already internet penetration is about 4 mln people. Already by humanity issued more than 400 mln equities. Already in Google Play and Appstore there is more than million apps. Already there is millions of databases that are hide from the eyes.
 These blockchains could keep everything we can imagine and we do not need to trust them because information was cryptographically proved and controlled by everybody. These information will be accessible through something like [Google Glass](http://www.google.com/glass/start/) or even [Emotiv](http://emotiv.com/) instantly. What happens? Yeah! That is artificial sixth sense. Sense of everything. These future is close. Everybody should understand that those who will have sixth sense will be significantly smarter.
 
