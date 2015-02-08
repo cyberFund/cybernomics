@@ -14,14 +14,8 @@
     "plugins": [
         "anchors",
         "ga",
-        "disqus"
+        "disqus",
+        "youtube"
     ],
-    "pluginsConfig": {
-        "disqus": {
-            "shortName": "cyberfund"
-        },
-        "ga": {
-            "token": "UA-49238979-9"
-        }
-    }
+    "pluginsConfig": {}
 }
