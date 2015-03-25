@@ -1,4 +1,4 @@
-This is early draft of whether paper, whether a book. If you excited about ideas, or interested in cryptocurrency, blockchain, AIN, DAC, PDAPP, consensus tech don't hesitate and [subscribe](http://21xhipster.gitbooks.io/cyberfund/) for updates newsletter. You can also [contribute](https://github.com/cyberFund/cyberPaper)! There is [bounties](https://www.bountysource.com/teams/cyberfund/issues).
+This is early draft of whether paper, whether a book. If you excited about ideas, or interested in cryptocurrency, blockchain, DAOs, Dapps, consensus, AIN tech don't hesitate and [subscribe](http://cyber.fund/cyberep) for updates newsletter. You can also [contribute](https://github.com/cyberFund/paper.cyber.fund)! There is [bounties](https://www.bountysource.com/teams/cyberfund/issues).
 
 # Abstract
 
