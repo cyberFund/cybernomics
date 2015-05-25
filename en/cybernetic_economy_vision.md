@@ -13,7 +13,7 @@ The new economy some people define as cryptoeconomy. That definition reflects on
 * ability to [reproduce spices](http://coinmarketcap.com/) is fantastic,
 * ability to [survive](https://en.wikipedia.org/wiki/Artificial_general_intelligence) seems to be almost immortal through distributed nature.
 
-Existence of cybereconomy is surprisingly for humanity. But that is much more exciting than autonomous strong AI existence. Global brains confront mankind with many new dilemmas right now. But anyway the only way to perceive them is just to accept.4
+Existence of cybereconomy is surprisingly for humanity. But that is much more exciting than autonomous strong AI existence. Global brains confront mankind with many new dilemmas right now. But anyway the only way to perceive them is just to accept.
 
 ## Artificial Intelligent Networks
 World economy growth increase year after year. What factors could push world economy growth even faster?
@@ -56,7 +56,7 @@ With bunch of opportunities for cyber entrepreneurs area of money making could b
 
 ## Society
 Impossible to predict. But that is clear that religions and politics could be abandoned in only 1 generations and totaly forget in 2 generations of our children’s. Great insights you can find [here](http://cadelllast.files.wordpress.com/2012/12/last-c-2014-global-brain-and-the-future-of-human-society2.pdf).
-We believe that our planet will solve all incoming dilemmas to realise the biggest dream of humanity.
+We believe that our planet will solve all incoming dilemmas to realize the biggest dream of humanity.
 
 ## Space Industry
 Almost everybody dream to go to space. After solving huge pack of human problems the most exciting industry is Space. Pioneers [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk), [Bas Lansdorp](https://en.wikipedia.org/wiki/Bas_Lansdorp) and [Arno Wielders](http://www.mars-one.com/about-mars-one/team) already begin to build awesome products. Armed with new kind of intelligence humanity would be able to step into new epoch of Great Space Exploration.
