@@ -1,7 +1,8 @@
 {
     "plugins": [
         "mixpanel",
-        "discourse"
+        "discourse",
+        "ga",
     ],
     "pluginsConfig": {}
 }
