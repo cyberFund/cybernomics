@@ -12,8 +12,11 @@
     }, 
 {
     "plugins": [
+<<<<<<< HEAD
         "mixpanel",
         "discourse",
+=======
+>>>>>>> v2
         "ga",
     ],
     "pluginsConfig": {}

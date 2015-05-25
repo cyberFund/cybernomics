@@ -57,7 +57,7 @@ We have launch strong foundation with [Discourse](http://forum.cyber.fund/).
 We have embed comprehensive bounty program for scientists, developers, engineers, marketers, creative peoples, officials, journalists and of course for entrepreneurs. Now everybody can join and build new generation cybereconomy together.
 
 ## Control the system. Become cyber shareholder!
-cyber • Fund Genesys Sale Race have been started. September 20, 2014 - that is the date when everybody can bring some value for cyber•Fund ideas. Genesis Sale Race will end on November 20, 2014.
+cyber • Fund Genesis Sale Race have been started. September 20, 2014 - that is the date when everybody can bring some value for cyber•Fund ideas. Genesis Sale Race will end on November 20, 2014.
 
 ## Earn values. Become cyber investor!
 We are working on cyber•Pie - the most intelligent revolutionary investment portfolio. That is not just another investments. That is the most intelligent investments ever existed.
