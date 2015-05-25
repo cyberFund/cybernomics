@@ -1,3 +1,15 @@
+"links": { 
+    "about": "http://cyber.fund", 
+    "contribute": "https://github.com/cyberFund/cyberPaper", 
+    "custom": { 
+        "cyber•Fund": "http://cyber.fund" 
+        }, 
+        "sharing": { 
+            "google": "https://plus.google.com/+CyberfundIo",
+            "facebook": "https://www.facebook.com/cyberfund",
+            "twitter": "https://twitter.com/cyberfundio" 
+        } 
+    }, 
 {
     "plugins": [
         "mixpanel",
