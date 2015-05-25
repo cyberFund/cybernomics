@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "mixpanel"
+        "mixpanel",
+        "discourse"
     ],
     "pluginsConfig": {}
 }
